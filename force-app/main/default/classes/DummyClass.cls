@@ -5,7 +5,7 @@ public with sharing class DummyClass {
     }
 
     public static String getStatic(){
-        String a = 'RETORNO';
+        String a = 'DOIS RETORNO';
 
         return a;
     }
